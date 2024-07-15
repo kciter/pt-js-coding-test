@@ -1,9 +1,9 @@
 {
-  "name": "pt-coding-test",
+  "name": "pt-js-coding-test",
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /pt-coding-test",
+    "build": "slidev build --base /pt-js-coding-test",
     "dev": "slidev",
     "export": "slidev export"
   },
