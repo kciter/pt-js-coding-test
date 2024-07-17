@@ -5,7 +5,7 @@ layout: intro
 colorSchema: light
 ---
 
-# 코딩 테스트 대비 특강
+# 취업 대비 코딩 테스트 특강
 - - -
 ### 이선협 / @kciter
 
@@ -55,6 +55,10 @@ src: ./pages/subpage3.md
 
 ---
 src: ./pages/subpage4.md
+---
+
+---
+src: ./pages/subpage5.md
 ---
 
 ---
