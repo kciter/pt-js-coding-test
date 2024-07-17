@@ -129,3 +129,18 @@ headerTitle: 코딩테스트 대비 취업 특강
 * 접근이 어렵다면 문제를 풀어보며 문제 패턴을 정리해보자
 * 동적 계획법 유형 패턴
   * https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
+
+---
+layout: default
+headerEnable: true
+headerTitle: 코딩테스트 대비 취업 특강
+---
+
+# 나는 창의력이 부족한 것 같아요...
+
+* 가끔 풀이를 보고나서 **어떻게 저런 생각을 할까?** 라는 생각을 하게 된다면...
+* 창의력이란 새로운 생각이나 개념을 발견하거나<br /><accent>기존에 있던 생각이나 개념들을 조합하여 새로이 생각해내는 특성</accent>
+* 컴퓨터 시스템이라는 제한된 환경에서 내가 아는 지식과 경험을 이용하는 것
+  * 아직 지식과 경험이 부족할 수 있다.
+  * 자신감을 잃기보다 하는 것이 중요
