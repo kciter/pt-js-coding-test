@@ -1,13 +1,12 @@
 ---
 title: 표지
 theme: neat
-layout: intro
+layout: cover
 colorSchema: light
+coverTitle: 자바스크립트 코딩 테스트 특강
+coverAuthor: 이선협 / @kciter
 ---
 
-# 취업 대비 코딩 테스트 특강
-- - -
-### 이선협 / @kciter
 
 ---
 title: 발표자 소개
