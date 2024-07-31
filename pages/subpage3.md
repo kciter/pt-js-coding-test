@@ -97,7 +97,7 @@ headerEnable: true
 headerTitle: 코딩테스트 대비 취업 특강
 ---
 
-<Image src="/heap-problem.png" width="540px" />
+<img src="/heap-problem.png" width="540px" />
 
 입력 제한을 보고 판단해보자!
 
@@ -107,7 +107,7 @@ headerEnable: true
 headerTitle: 코딩테스트 대비 취업 특강
 ---
 
-<Image src="/simulation-problem.png" width="540px" />
+<img src="/simulation-problem.png" width="540px" />
 
 입력 제한을 보고 판단해보자!
 
@@ -124,7 +124,7 @@ headerTitle: 코딩테스트 대비 취업 특강
 
 - - -
 
-<Image src="/keyword-1.png" width="540px" />
+<img src="/keyword-1.png" width="540px" />
 
 ---
 layout: default
@@ -139,7 +139,7 @@ headerTitle: 코딩테스트 대비 취업 특강
 
 - - -
 
-<Image src="/keyword-2.png" width="540px" />
+<img src="/keyword-2.png" width="540px" />
 
 ---
 layout: default
@@ -154,7 +154,7 @@ headerTitle: 코딩테스트 대비 취업 특강
 
 - - -
 
-<Image src="/keyword-3.png" width="540px" />
+<img src="/keyword-3.png" width="540px" />
 
 ---
 layout: two-cols
@@ -177,7 +177,7 @@ headerTitle: 코딩테스트 대비 취업 특강
 
 <spacer gap="40" />
 
-<Image src="/keyword-4.png" width="440px" />
+<img src="/keyword-4.png" width="440px" />
 
 ---
 layout: default

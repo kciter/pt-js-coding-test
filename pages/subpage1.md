@@ -52,7 +52,7 @@ headerEnable: true
 headerTitle: 코딩테스트 대비 취업 특강
 ---
 
-<Image src="https://ih1.redbubble.net/image.3740532972.5300/st,small,845x845-pad,1000x1000,f8f8f8.jpg" width="120" />
+<img src="https://ih1.redbubble.net/image.3740532972.5300/st,small,845x845-pad,1000x1000,f8f8f8.jpg" width="120px" />
 
 <spacer gap="10" />
 
